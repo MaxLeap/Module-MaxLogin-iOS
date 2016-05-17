@@ -16,7 +16,6 @@
 #import <TencentOpenAPI/TencentOAuth.h>
 #import "WeiboSDK.h"
 #import "WXApi.h"
-#import "UIImage+Additions.h"
 
 
 #define MAXLEAP_APPID           @"572826d0a5ff7f00019a437d"

@@ -21,3 +21,8 @@ FOUNDATION_EXPORT const unsigned char MaxLoginVersionString[];
 #import "MCUserIconCell.h"
 #import "MCPersonalViewController.h"
 #import "Constants.h"
+#import "UIImage+Additions.h"
+#import "UIImage+Alpha.h"
+#import "UIImage+KTCategory.h"
+#import "UIImage+Resize.h"
+#import "UIImage+RoundedCorner.h"
