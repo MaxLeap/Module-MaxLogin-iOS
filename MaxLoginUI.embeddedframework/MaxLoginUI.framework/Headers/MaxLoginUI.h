@@ -16,11 +16,12 @@ FOUNDATION_EXPORT const unsigned char MaxLoginVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <MaxLogin/PublicHeader.h>
 
+#import "Constants.h"
 #import "MCLoginViewController.h"
 #import "MCSignViewController.h"
 #import "MCUserIconCell.h"
 #import "MCPersonalViewController.h"
-#import "Constants.h"
+
 #import "UIImage+Additions.h"
 #import "UIImage+Alpha.h"
 #import "UIImage+KTCategory.h"

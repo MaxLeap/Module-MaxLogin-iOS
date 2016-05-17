@@ -100,6 +100,8 @@
 		B29A880A1CEABC320048CDEB /* MCLoginViewController.nib */ = {isa = PBXFileReference; lastKnownFileType = file; path = MCLoginViewController.nib; sourceTree = "<group>"; };
 		B29A880B1CEABC320048CDEB /* MCPersonalViewController.nib */ = {isa = PBXFileReference; lastKnownFileType = file; path = MCPersonalViewController.nib; sourceTree = "<group>"; };
 		B29A880C1CEABC320048CDEB /* MCSignViewController.nib */ = {isa = PBXFileReference; lastKnownFileType = file; path = MCSignViewController.nib; sourceTree = "<group>"; };
+		B29A8C651CEAD7BD0048CDEB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		B29A8C661CEAD7BD0048CDEB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -360,6 +362,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B29A876E1CEAAFED0048CDEB /* Base */,
+				B29A8C651CEAD7BD0048CDEB /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -368,6 +371,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B29A87731CEAAFED0048CDEB /* Base */,
+				B29A8C661CEAD7BD0048CDEB /* zh-Hans */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";

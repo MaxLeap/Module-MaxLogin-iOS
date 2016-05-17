@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/MaxLoginUI.h</key>
 		<data>
-		mYYUEghcdodx9TdN9jW3dmQQLKg=
+		KfRa9QEEjZIu9ghW1LoAzZX9tmY=
 		</data>
 		<key>Headers/UIImage+Additions.h</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>MCLoginViewController.nib</key>
 		<data>
-		8uUSVY0UuFSIv3xIemqRaA8W3/s=
+		aY09FA9gYkCn/Vv5WlDJc2II8Zs=
 		</data>
 		<key>MCPersonalViewController.nib</key>
 		<data>
-		8Su61nLc00GD6Jq5S9lTq0CFAVw=
+		L21feRSrbSDi4BImHomMRSZY/mU=
 		</data>
 		<key>MCSignViewController.nib</key>
 		<data>
-		e3UzcHQxLzGe1vKDukpb9Khe/sE=
+		g/uazJoKxTfNibidLKiGPGwZ7AM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -154,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mYYUEghcdodx9TdN9jW3dmQQLKg=
+			KfRa9QEEjZIu9ghW1LoAzZX9tmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			GZy2H5nbOSTy84dOFnA961FbDQdyRlfX/L+fD1lLTLY=
+			4NaHOAPjy3jjG7KMM5pUAQAd2o6wyh0k7Y/jz5F5iw4=
 			</data>
 		</dict>
 		<key>Headers/UIImage+Additions.h</key>
@@ -220,33 +220,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8uUSVY0UuFSIv3xIemqRaA8W3/s=
+			aY09FA9gYkCn/Vv5WlDJc2II8Zs=
 			</data>
 			<key>hash2</key>
 			<data>
-			W4YvLverG/CDYRNTOeCtng3WOFye9IbP2T4PJDBwlIA=
+			9Tv2wEM1MZtcdtxLHd0yB/qjaISByi4FTlOEAYtVff8=
 			</data>
 		</dict>
 		<key>MCPersonalViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Su61nLc00GD6Jq5S9lTq0CFAVw=
+			L21feRSrbSDi4BImHomMRSZY/mU=
 			</data>
 			<key>hash2</key>
 			<data>
-			A1ypMqb5/eh0W5qvoOQFc5f01gjX8GPsCXlLor3XVy4=
+			PKEaxKN49goujXNFOSwYU+rHolrybpYLnORIj4Wvs0c=
 			</data>
 		</dict>
 		<key>MCSignViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e3UzcHQxLzGe1vKDukpb9Khe/sE=
+			g/uazJoKxTfNibidLKiGPGwZ7AM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z+wkJFAH/jsr8VJ5fEOAby/gQXARMR3o5dCCKV2sa84=
+			UxA5PHChvahUZmRArOoPW47PGSUAxlpaxc3gsGNsA+4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
