@@ -1,20 +1,23 @@
 //
-//  ViewController.m
-//  MaxLoginDemo
+//  PersonalViewController.m
+//  MaxChat
 //
-//  Created by 周和生 on 16/5/17.
+//  Created by 周和生 on 16/5/3.
 //  Copyright © 2016年 zhouhs. All rights reserved.
 //
 
-#import "ViewController.h"
-@import MaxLoginUI;
+#import "MCPersonalViewController.h"
+#import "MCLoginViewController.h"
+#import "MCUserIconCell.h"
+#import "MCSignViewController.h"
+#import "Constants.h"
 @import SVProgressHUD;
 @import SDWebImage;
 @import MaxLeap;
 
 
 
-@interface ViewController () <UITableViewDelegate, UITableViewDataSource, UIImagePickerControllerDelegate, UINavigationControllerDelegate>
+@interface MCPersonalViewController () <UITableViewDelegate, UITableViewDataSource, UIImagePickerControllerDelegate, UINavigationControllerDelegate>
 
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 
@@ -24,7 +27,7 @@
 
 @end
 
-@implementation ViewController
+@implementation MCPersonalViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
