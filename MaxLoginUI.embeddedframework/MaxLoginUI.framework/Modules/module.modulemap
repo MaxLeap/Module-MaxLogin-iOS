@@ -1,0 +1,6 @@
+framework module MaxLoginUI {
+  umbrella header "MaxLoginUI.h"
+
+  export *
+  module * { export * }
+}
